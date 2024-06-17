@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebd163da.css",
+    "main.js": "/static/js/main.994e4971.js",
+    "static/media/bg-video.mp4": "/static/media/bg-video.669871cc2b4880592f36.mp4",
+    "static/media/about.jpg": "/static/media/about.0f152a00000f6649b0f2.jpg",
+    "static/media/healtlink.png": "/static/media/healtlink.2286a18a53883a2718b0.png",
+    "static/media/logo-full.png": "/static/media/logo-full.33d840f7ad462007f18d.png",
+    "static/media/1.png": "/static/media/1.f61618dcfe567fb345b9.png",
+    "static/media/playstore.webp": "/static/media/playstore.a15410a5683e1b4b32ba.webp",
+    "static/media/app-store.png": "/static/media/app-store.0eecdec2b7a2c4c54875.png",
+    "index.html": "/index.html",
+    "main.ebd163da.css.map": "/static/css/main.ebd163da.css.map",
+    "main.994e4971.js.map": "/static/js/main.994e4971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebd163da.css",
+    "static/js/main.994e4971.js"
+  ]
+}
